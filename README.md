@@ -13,7 +13,7 @@ springboot 自签名生成HTTPS 服务器,快速安装ipa
 * 其他平台未测试
 
 # 需要
-Spring boot jd8 maven 
+Spring boot jdk8 maven 
 
 # 安装
 ```
